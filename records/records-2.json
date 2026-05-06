@@ -1,5 +1,5 @@
 {
-    "<YOUR_TABLE_NAME>": [
+    "test_amp": [
       {
         "PutRequest": { 
           "Item": {
